@@ -6,3 +6,6 @@ Seperate the files that will be in the commit and the files that will not.
 
 How can you use the staging area to make sure you have one commit per logical change?
 Make sure that the files in the staging area are in one logical change.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If I want to make experimental changes or another version of the program while preserving the original version, using brnaces will help.
