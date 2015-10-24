@@ -15,3 +15,7 @@ It shows all the commits on the branches I asked to see nad their relations to o
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 The two branches merge together.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+autamatic: convenient, but can do only simple task
+manually: inconvenient, but can do complex task 
