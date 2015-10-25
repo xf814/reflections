@@ -12,3 +12,8 @@ Branch:only change one repository
 
 What is the benefit of having a copy of the last known state of the remote stored locally?
 So that we can resolve conflict between local and github easily.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+Send my files to other people.
+Easier: don't need to learn git or github
+Harder: harder to view editing history and save version
